@@ -32,7 +32,7 @@ void structures(void) {
     sigline_p->signum = 1;
     strcpy(sigline_p->signame, "SIGINT");
     strcpy(sigline_p->sigdesc, "Interrupt from keyboard");
-}
+}                      
 
 // unions
 
